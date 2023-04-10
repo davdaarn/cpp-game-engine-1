@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\David\source\repos\GE1\bin\Debug-x64\${ProjectName}\GE1.dll</FullPath>
+      <FullPath>C:\Users\David\source\repos\GE\bin\Debug-x64\GE\GE.dll</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
